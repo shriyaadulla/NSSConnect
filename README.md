@@ -74,20 +74,9 @@ Implemented smart contracts include:
 
 ## 📸 Screenshots
 
-Screens for registration, login, event page, donations, payment, profile, and certificate generation are provided in the `/screenshots/` folder (to be added).
+Screens for registration, login, event page, donations, payment, profile, and certificate generation are provided in the `/output/` folder 
 
-## 📁 Project Structure
 
-```
-📦 nss-connect
-├── 📂 contracts        # Solidity smart contracts
-├── 📂 frontend         # Flutter frontend app
-├── 📂 backend          # Node.js & Express backend
-├── 📂 test             # Truffle test scripts
-├── 📂 scripts          # Deployment scripts
-├── 📄 README.md
-└── 📄 package.json
-```
 
 ## 🚀 Deployment Instructions
 
